@@ -211,7 +211,7 @@ header.activeTwo .search {
 /************************************** start home **************************************/
 /* start home */
 .home {
-  background-image: url(/image/hero-bg.jpg);
+  background-image: url(../image/hero-bg.jpg);
   background-position: center;
   background-size: cover;
   z-index: 1000000000;
