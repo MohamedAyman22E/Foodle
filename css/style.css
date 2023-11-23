@@ -214,6 +214,7 @@ header.activeTwo .search {
   background-image: url(/image/hero-bg.jpg);
   background-position: center;
   background-size: cover;
+  z-index: 1000000000;
 }
 .home-contaner {
   margin-top: 123px;
