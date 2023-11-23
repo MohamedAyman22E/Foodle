@@ -22,6 +22,15 @@ body {
   background-color: var(--body-ba-cl);
 }
 /* geanrl  */
+::-webkit-scrollbar {
+  width: 10px;
+  background-color: var(--text-co);
+}
+::-webkit-scrollbar-thumb {
+  border-radius: 10px;
+  background-color: var(--ba-btn);
+}
+
 .dis {
   display: flex;
   align-items: center;
